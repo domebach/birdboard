@@ -11,6 +11,7 @@
 |
 */
 
+use App\Activity;
 use App\Http\Controllers\ProjectsController;
 use App\Project;
 use function foo\func;
